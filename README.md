@@ -1,1 +1,2 @@
-# Interstellar-Self-design
+# p5.play-boilerplate
+copyright@SameerAkhtar 
